@@ -24,6 +24,8 @@ To deploy the admin panel dashboard locally, follow these steps:
 
 Clone the repository to your local machine.
 
+Extract .rar files.
+
 Navigate to the project directory.
 
 Open the index.html file in your preferred web browser.
