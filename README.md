@@ -25,10 +25,7 @@ Navigate to the project directory.
 
 Open the index.html file in your preferred web browser.
 
-Contribution
-
-Contributions to the project are welcome! If you'd like to contribute, please follow these steps:
-
+Preview(LinkedIn Post) Link: https://www.linkedin.com/feed/update/urn:li:activity:7166017213643104257/
 Fork the repository.
 
 Create a new branch for your feature or bug fix.
