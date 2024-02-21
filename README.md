@@ -17,6 +17,9 @@ CSS: Employed for styling and enhancing the visual appeal of the dashboard.
 JavaScript: Implemented for dynamic interactions and functionality within the dashboard.
 Bootstrap: Leveraged for responsive design and ensuring compatibility across various devices.
 Usage
+
+Preview Link:[ LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7166017213643104257/)
+
 To deploy the admin panel dashboard locally, follow these steps:
 
 Clone the repository to your local machine.
@@ -25,7 +28,6 @@ Navigate to the project directory.
 
 Open the index.html file in your preferred web browser.
 
-Preview(LinkedIn Post) Link: https://www.linkedin.com/feed/update/urn:li:activity:7166017213643104257/
 Fork the repository.
 
 Create a new branch for your feature or bug fix.
